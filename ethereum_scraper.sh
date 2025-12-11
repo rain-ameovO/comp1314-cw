@@ -20,3 +20,5 @@ current_time="`date "+%Y-%m-%d %H:%M:%S"`"
 "INSERT INTO $table_name (api_id, price, price_time, low_price, high_price) VALUES ('ethereum', '$price', NOW(), '$low_price', '$high_price');"
 
 echo "| $current_time | Ethereum price: $ $price | 24H Low: $ $low_price | 24H High: $high_price |"
+
+rm "$temp_file"
