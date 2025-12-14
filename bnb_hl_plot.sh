@@ -35,4 +35,4 @@ plot \
 "$data_file" using 1:3 with lines linewidth 2 title "24H High Binance Coin Price"
 EOF
 
-echo "Binance 24H Low Price VS High Price graph has created"
+echo "Binance Coin 24H Low Price VS High Price graph has created"
