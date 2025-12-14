@@ -1,0 +1,248 @@
+| 2025-12-12 09:00:01 | Bitcoin price: $ 92127.82 | 24H Low: $ 89335.30 | 24H High: 93554.27 |
+| 2025-12-12 09:01:02 | Ethereum price: $ 3212.14 | 24H Low: $ 3149.03 | 24H High: 3279.59 |
+| 2025-12-12 09:02:01 | Binance Coin price: $ 884.84 | 24H Low: $ 861.25 | 24H High: 890.10 |
+| 2025-12-12 09:03:02 | Solana price: $ 136.22 | 24H Low: $ 129.38 | 24H High: 137.68 |
+| 2025-12-12 09:04:01 | Bitcoin-Cash price: $ 570.60 | 24H Low: $ 552.44 | 24H High: 578.18 |
+| 2025-12-12 10:00:02 | Bitcoin price: $ 92197.84 | 24H Low: $ 89335.30 | 24H High: 93554.27 |
+| 2025-12-12 10:01:06 | Ethereum price: $ 3232.59 | 24H Low: $ 3149.03 | 24H High: 3272.19 |
+| 2025-12-12 10:02:02 | Binance Coin price: $ 887.22 | 24H Low: $ 861.25 | 24H High: 890.10 |
+| 2025-12-12 10:03:01 | Solana price: $ 136.72 | 24H Low: $ 129.38 | 24H High: 137.68 |
+| 2025-12-12 10:04:02 | Bitcoin-Cash price: $ 576.10 | 24H Low: $ 552.44 | 24H High: 578.18 |
+| 2025-12-12 11:00:01 | Bitcoin price: $ 92726.83 | 24H Low: $ 89335.30 | 24H High: 93554.27 |
+| 2025-12-12 11:01:27 | Ethereum price: $ 3261.13 | 24H Low: $ 3149.03 | 24H High: 3272.19 |
+| 2025-12-12 11:02:02 | Binance Coin price: $ 891.45 | 24H Low: $ 861.25 | 24H High: 891.25 |
+| 2025-12-12 11:03:01 | Solana price: $ 137.30 | 24H Low: $ 129.38 | 24H High: 137.73 |
+| 2025-12-12 11:04:02 | Bitcoin-Cash price: $ 583.46 | 24H Low: $ 552.44 | 24H High: 583.58 |
+| 2025-12-12 12:02:49 | Binance Coin price: $ 892.43 | 24H Low: $ 861.25 | 24H High: 895.47 |
+| 2025-12-12 12:03:01 | Solana price: $ 137.20 | 24H Low: $ 129.38 | 24H High: 137.73 |
+| 2025-12-12 12:04:13 | Bitcoin-Cash price: $ 580.94 | 24H Low: $ 554.35 | 24H High: 583.72 |
+Failed to fetch website. Please check if the network or the website is down.
+Failed to fetch website. Please check if the network or the website is down.
+Failed to fetch website. Please check if the network or the website is down.
+Failed to fetch website. Please check if the network or the website is down.
+Failed to fetch website. Please check if the network or the website is down.
+| 2025-12-12 14:00:06 | Bitcoin price: $ 92427.52 | 24H Low: $ 89335.30 | 24H High: 93554.27 |
+| 2025-12-12 14:01:02 | Ethereum price: $ 3246.59 | 24H Low: $ 3149.03 | 24H High: 3272.19 |
+| 2025-12-12 14:02:05 | Binance Coin price: $ 890.96 | 24H Low: $ 861.25 | 24H High: 895.47 |
+| 2025-12-12 14:03:02 | Solana price: $ 138.38 | 24H Low: $ 130.26 | 24H High: 138.39 |
+| 2025-12-12 14:04:04 | Bitcoin-Cash price: $ 579.95 | 24H Low: $ 558.04 | 24H High: 583.72 |
+| 2025-12-12 15:00:30 | Bitcoin price: $ 92526.38 | 24H Low: $ 89335.30 | 24H High: 93554.27 |
+| 2025-12-12 15:01:18 | Ethereum price: $ 3254.66 | 24H Low: $ 3149.03 | 24H High: 3272.19 |
+| 2025-12-12 15:02:11 | Binance Coin price: $ 891.59 | 24H Low: $ 861.25 | 24H High: 895.47 |
+| 2025-12-12 15:03:10 | Solana price: $ 139.01 | 24H Low: $ 130.26 | 24H High: 139.99 |
+| 2025-12-12 15:04:22 | Bitcoin-Cash price: $ 580.82 | 24H Low: $ 558.04 | 24H High: 583.72 |
+| 2025-12-12 16:01:55 | Bitcoin price: $ 92444.63 | 24H Low: $ 89335.30 | 24H High: 93554.27 |
+| 2025-12-12 16:02:06 | Binance Coin price: $ 889.69 | 24H Low: $ 861.25 | 24H High: 895.47 |
+| 2025-12-12 16:03:13 | Solana price: $ 139.19 | 24H Low: $ 130.26 | 24H High: 139.99 |
+| 2025-12-12 16:05:02 | Bitcoin-Cash price: $ 578.35 | 24H Low: $ 558.04 | 24H High: 584.63 |
+Failed to fetch website. Please check if the network or the website is down.
+| 2025-12-12 17:00:23 | Bitcoin price: $ 92299.43 | 24H Low: $ 89335.30 | 24H High: 93554.27 |
+| 2025-12-12 17:01:31 | Ethereum price: $ 3246.32 | 24H Low: $ 3149.03 | 24H High: 3272.19 |
+| 2025-12-12 17:02:11 | Binance Coin price: $ 886.85 | 24H Low: $ 861.25 | 24H High: 895.47 |
+| 2025-12-12 17:03:11 | Solana price: $ 137.95 | 24H Low: $ 130.26 | 24H High: 139.99 |
+| 2025-12-12 17:04:07 | Bitcoin-Cash price: $ 578.03 | 24H Low: $ 558.04 | 24H High: 584.63 |
+| 2025-12-12 18:00:21 | Bitcoin price: $ 92444.89 | 24H Low: $ 89335.30 | 24H High: 93554.27 |
+| 2025-12-12 18:01:02 | Ethereum price: $ 3252.24 | 24H Low: $ 3149.03 | 24H High: 3272.19 |
+| 2025-12-12 18:02:07 | Binance Coin price: $ 887.48 | 24H Low: $ 861.25 | 24H High: 895.47 |
+| 2025-12-12 18:03:03 | Solana price: $ 138.02 | 24H Low: $ 130.26 | 24H High: 139.99 |
+| 2025-12-12 18:04:04 | Bitcoin-Cash price: $ 578.40 | 24H Low: $ 558.04 | 24H High: 584.63 |
+| 2025-12-12 20:00:02 | Bitcoin price: $ 92384.81 | 24H Low: $ 89335.30 | 24H High: 93554.27 |
+| 2025-12-12 20:01:08 | Ethereum price: $ 3239.82 | 24H Low: $ 3149.03 | 24H High: 3272.19 |
+| 2025-12-12 20:02:02 | Binance Coin price: $ 885.55 | 24H Low: $ 861.25 | 24H High: 895.47 |
+| 2025-12-12 20:03:01 | Solana price: $ 138.58 | 24H Low: $ 130.26 | 24H High: 139.99 |
+| 2025-12-12 20:04:03 | Bitcoin-Cash price: $ 582.67 | 24H Low: $ 558.04 | 24H High: 584.63 |
+| 2025-12-12 21:00:01 | Bitcoin price: $ 92369.31 | 24H Low: $ 89335.30 | 24H High: 93554.27 |
+| 2025-12-12 21:01:01 | Ethereum price: $ 3247.31 | 24H Low: $ 3149.03 | 24H High: 3272.19 |
+| 2025-12-12 21:02:01 | Binance Coin price: $ 887.74 | 24H Low: $ 861.25 | 24H High: 895.47 |
+| 2025-12-12 21:03:01 | Solana price: $ 139.62 | 24H Low: $ 130.26 | 24H High: 139.99 |
+| 2025-12-12 21:04:02 | Bitcoin-Cash price: $ 582.37 | 24H Low: $ 558.04 | 24H High: 584.63 |
+| 2025-12-12 22:00:01 | Bitcoin price: $ 92327.58 | 24H Low: $ 89335.30 | 24H High: 93554.27 |
+| 2025-12-12 22:01:07 | Ethereum price: $ 3240.84 | 24H Low: $ 3149.03 | 24H High: 3272.19 |
+| 2025-12-12 22:02:01 | Binance Coin price: $ 887.93 | 24H Low: $ 861.25 | 24H High: 895.47 |
+| 2025-12-12 22:03:02 | Solana price: $ 139.00 | 24H Low: $ 130.26 | 24H High: 139.99 |
+| 2025-12-12 22:04:01 | Bitcoin-Cash price: $ 584.76 | 24H Low: $ 558.04 | 24H High: 585.36 |
+| 2025-12-12 23:00:02 | Bitcoin price: $ 92449.42 | 24H Low: $ 89335.30 | 24H High: 93554.27 |
+| 2025-12-12 23:01:01 | Ethereum price: $ 3232.59 | 24H Low: $ 3149.03 | 24H High: 3272.19 |
+| 2025-12-12 23:02:02 | Binance Coin price: $ 891.46 | 24H Low: $ 861.25 | 24H High: 895.47 |
+| 2025-12-12 23:03:01 | Solana price: $ 138.62 | 24H Low: $ 130.34 | 24H High: 139.99 |
+| 2025-12-12 23:04:02 | Bitcoin-Cash price: $ 584.06 | 24H Low: $ 558.04 | 24H High: 585.36 |
+| 2025-12-13 00:00:01 | Bitcoin price: $ 90170.49 | 24H Low: $ 89389.39 | 24H High: 93554.27 |
+| 2025-12-13 00:01:02 | Ethereum price: $ 3080.78 | 24H Low: $ 3080.29 | 24H High: 3272.19 |
+| 2025-12-13 00:02:01 | Binance Coin price: $ 877.61 | 24H Low: $ 862.07 | 24H High: 895.47 |
+| 2025-12-13 00:03:02 | Solana price: $ 134.27 | 24H Low: $ 130.34 | 24H High: 139.99 |
+| 2025-12-13 00:04:01 | Bitcoin-Cash price: $ 580.18 | 24H Low: $ 558.04 | 24H High: 585.36 |
+| 2025-12-13 01:00:02 | Bitcoin price: $ 89936.00 | 24H Low: $ 89532.60 | 24H High: 93554.27 |
+| 2025-12-13 01:01:01 | Ethereum price: $ 3063.72 | 24H Low: $ 3050.27 | 24H High: 3272.19 |
+| 2025-12-13 01:02:01 | Binance Coin price: $ 876.55 | 24H Low: $ 866.31 | 24H High: 895.47 |
+Failed to fetch website. Please check if the network or the website is down.
+| 2025-12-13 01:04:02 | Bitcoin-Cash price: $ 578.48 | 24H Low: $ 558.04 | 24H High: 585.36 |
+| 2025-12-13 02:00:02 | Bitcoin price: $ 90081.51 | 24H Low: $ 89532.60 | 24H High: 93554.27 |
+| 2025-12-13 02:01:01 | Ethereum price: $ 3071.00 | 24H Low: $ 3050.27 | 24H High: 3272.19 |
+| 2025-12-13 02:02:01 | Binance Coin price: $ 876.28 | 24H Low: $ 869.36 | 24H High: 895.47 |
+| 2025-12-13 02:03:01 | Solana price: $ 132.08 | 24H Low: $ 131.72 | 24H High: 139.99 |
+| 2025-12-13 02:04:03 | Bitcoin-Cash price: $ 577.39 | 24H Low: $ 560.73 | 24H High: 585.36 |
+| 2025-12-13 03:00:01 | Bitcoin price: $ 90601.71 | 24H Low: $ 89532.60 | 24H High: 93554.27 |
+| 2025-12-13 03:01:02 | Ethereum price: $ 3095.75 | 24H Low: $ 3050.27 | 24H High: 3272.19 |
+| 2025-12-13 03:02:01 | Binance Coin price: $ 881.26 | 24H Low: $ 873.61 | 24H High: 895.47 |
+| 2025-12-13 03:03:01 | Solana price: $ 133.04 | 24H Low: $ 131.72 | 24H High: 139.99 |
+| 2025-12-13 03:04:07 | Bitcoin-Cash price: $ 581.59 | 24H Low: $ 563.09 | 24H High: 585.36 |
+| 2025-12-13 04:00:02 | Bitcoin price: $ 90228.38 | 24H Low: $ 89532.60 | 24H High: 93554.27 |
+| 2025-12-13 04:01:01 | Ethereum price: $ 3073.21 | 24H Low: $ 3050.27 | 24H High: 3272.19 |
+| 2025-12-13 04:02:01 | Binance Coin price: $ 877.14 | 24H Low: $ 873.61 | 24H High: 895.47 |
+| 2025-12-13 04:03:02 | Solana price: $ 131.05 | 24H Low: $ 130.68 | 24H High: 139.99 |
+| 2025-12-13 04:04:01 | Bitcoin-Cash price: $ 576.58 | 24H Low: $ 563.09 | 24H High: 585.36 |
+| 2025-12-13 05:00:02 | Bitcoin price: $ 90300.28 | 24H Low: $ 89532.60 | 24H High: 93554.27 |
+| 2025-12-13 05:01:01 | Ethereum price: $ 3084.24 | 24H Low: $ 3050.27 | 24H High: 3272.19 |
+| 2025-12-13 05:02:01 | Binance Coin price: $ 877.55 | 24H Low: $ 873.61 | 24H High: 895.47 |
+| 2025-12-13 05:03:02 | Solana price: $ 131.83 | 24H Low: $ 130.68 | 24H High: 139.99 |
+| 2025-12-13 05:04:02 | Bitcoin-Cash price: $ 578.83 | 24H Low: $ 566.98 | 24H High: 585.36 |
+| 2025-12-13 06:00:01 | Bitcoin price: $ 90217.66 | 24H Low: $ 89532.60 | 24H High: 93113.01 |
+| 2025-12-13 06:01:01 | Ethereum price: $ 3083.26 | 24H Low: $ 3050.27 | 24H High: 3265.37 |
+| 2025-12-13 06:02:02 | Binance Coin price: $ 878.79 | 24H Low: $ 873.61 | 24H High: 895.47 |
+| 2025-12-13 06:03:01 | Solana price: $ 131.90 | 24H Low: $ 130.68 | 24H High: 139.99 |
+| 2025-12-13 06:04:02 | Bitcoin-Cash price: $ 578.95 | 24H Low: $ 569.25 | 24H High: 585.36 |
+| 2025-12-13 07:00:01 | Bitcoin price: $ 90300.11 | 24H Low: $ 89532.60 | 24H High: 92805.03 |
+| 2025-12-13 07:01:07 | Ethereum price: $ 3090.12 | 24H Low: $ 3050.27 | 24H High: 3265.37 |
+| 2025-12-13 07:02:01 | Binance Coin price: $ 881.36 | 24H Low: $ 873.61 | 24H High: 895.47 |
+| 2025-12-13 07:03:02 | Solana price: $ 132.63 | 24H Low: $ 130.68 | 24H High: 139.99 |
+| 2025-12-13 07:04:01 | Bitcoin-Cash price: $ 579.68 | 24H Low: $ 569.25 | 24H High: 585.36 |
+| 2025-12-13 08:00:01 | Bitcoin price: $ 90290.55 | 24H Low: $ 89532.60 | 24H High: 92747.93 |
+| 2025-12-13 08:01:01 | Ethereum price: $ 3084.87 | 24H Low: $ 3050.27 | 24H High: 3265.37 |
+| 2025-12-13 08:02:02 | Binance Coin price: $ 882.20 | 24H Low: $ 873.61 | 24H High: 895.47 |
+| 2025-12-13 08:03:01 | Solana price: $ 132.45 | 24H Low: $ 130.68 | 24H High: 139.99 |
+| 2025-12-13 08:04:02 | Bitcoin-Cash price: $ 581.23 | 24H Low: $ 569.25 | 24H High: 585.36 |
+| 2025-12-13 09:00:01 | Bitcoin price: $ 90356.42 | 24H Low: $ 89532.60 | 24H High: 92747.93 |
+| 2025-12-13 09:01:02 | Ethereum price: $ 3086.47 | 24H Low: $ 3050.27 | 24H High: 3265.37 |
+| 2025-12-13 09:02:01 | Binance Coin price: $ 881.38 | 24H Low: $ 873.61 | 24H High: 895.47 |
+| 2025-12-13 09:03:01 | Solana price: $ 132.59 | 24H Low: $ 130.68 | 24H High: 139.99 |
+| 2025-12-13 09:04:02 | Bitcoin-Cash price: $ 582.51 | 24H Low: $ 569.25 | 24H High: 585.36 |
+| 2025-12-13 10:00:02 | Bitcoin price: $ 90196.16 | 24H Low: $ 89532.60 | 24H High: 92747.93 |
+| 2025-12-13 10:01:01 | Ethereum price: $ 3081.88 | 24H Low: $ 3050.27 | 24H High: 3265.37 |
+| 2025-12-13 10:02:01 | Binance Coin price: $ 881.08 | 24H Low: $ 873.61 | 24H High: 895.47 |
+| 2025-12-13 10:03:02 | Solana price: $ 132.57 | 24H Low: $ 130.68 | 24H High: 139.99 |
+| 2025-12-13 10:04:02 | Bitcoin-Cash price: $ 582.19 | 24H Low: $ 574.43 | 24H High: 586.50 |
+| 2025-12-13 12:00:03 | Bitcoin price: $ 90347.00 | 24H Low: $ 89532.60 | 24H High: 92721.77 |
+| 2025-12-13 12:01:03 | Ethereum price: $ 3089.76 | 24H Low: $ 3050.27 | 24H High: 3264.40 |
+| 2025-12-13 12:02:02 | Binance Coin price: $ 887.17 | 24H Low: $ 873.61 | 24H High: 893.69 |
+| 2025-12-13 12:03:02 | Solana price: $ 132.90 | 24H Low: $ 130.68 | 24H High: 139.99 |
+| 2025-12-13 12:04:02 | Bitcoin-Cash price: $ 581.60 | 24H Low: $ 574.43 | 24H High: 586.50 |
+| 2025-12-13 13:00:36 | Bitcoin price: $ 90398.40 | 24H Low: $ 89532.60 | 24H High: 92721.77 |
+| 2025-12-13 13:01:24 | Ethereum price: $ 3091.86 | 24H Low: $ 3050.27 | 24H High: 3264.40 |
+| 2025-12-13 13:02:13 | Binance Coin price: $ 885.86 | 24H Low: $ 873.61 | 24H High: 893.69 |
+| 2025-12-13 13:03:19 | Solana price: $ 132.90 | 24H Low: $ 130.68 | 24H High: 139.99 |
+| 2025-12-13 13:04:19 | Bitcoin-Cash price: $ 578.64 | 24H Low: $ 574.43 | 24H High: 586.50 |
+| 2025-12-13 14:00:02 | Bitcoin price: $ 90305.72 | 24H Low: $ 89532.60 | 24H High: 92721.77 |
+| 2025-12-13 14:01:01 | Ethereum price: $ 3088.42 | 24H Low: $ 3050.27 | 24H High: 3264.40 |
+| 2025-12-13 14:02:02 | Binance Coin price: $ 885.88 | 24H Low: $ 873.61 | 24H High: 893.69 |
+| 2025-12-13 14:03:01 | Solana price: $ 132.65 | 24H Low: $ 130.68 | 24H High: 139.99 |
+| 2025-12-13 14:04:02 | Bitcoin-Cash price: $ 577.16 | 24H Low: $ 574.43 | 24H High: 586.50 |
+| 2025-12-13 15:00:02 | Bitcoin price: $ 90375.22 | 24H Low: $ 89532.60 | 24H High: 92642.12 |
+| 2025-12-13 15:01:01 | Ethereum price: $ 3094.70 | 24H Low: $ 3050.27 | 24H High: 3257.33 |
+| 2025-12-13 15:02:02 | Binance Coin price: $ 887.15 | 24H Low: $ 873.61 | 24H High: 891.96 |
+| 2025-12-13 15:03:01 | Solana price: $ 132.87 | 24H Low: $ 130.68 | 24H High: 139.66 |
+| 2025-12-13 15:04:02 | Bitcoin-Cash price: $ 575.45 | 24H Low: $ 574.43 | 24H High: 586.50 |
+| 2025-12-13 16:00:02 | Bitcoin price: $ 90356.83 | 24H Low: $ 89532.60 | 24H High: 92642.12 |
+| 2025-12-13 16:01:01 | Ethereum price: $ 3094.97 | 24H Low: $ 3050.27 | 24H High: 3255.11 |
+| 2025-12-13 16:02:02 | Binance Coin price: $ 886.42 | 24H Low: $ 873.61 | 24H High: 891.96 |
+| 2025-12-13 16:03:01 | Solana price: $ 132.94 | 24H Low: $ 130.68 | 24H High: 139.66 |
+| 2025-12-13 16:04:02 | Bitcoin-Cash price: $ 573.64 | 24H Low: $ 573.13 | 24H High: 586.50 |
+| 2025-12-13 17:00:01 | Bitcoin price: $ 90525.59 | 24H Low: $ 89532.60 | 24H High: 92642.12 |
+| 2025-12-13 17:01:02 | Ethereum price: $ 3116.76 | 24H Low: $ 3050.27 | 24H High: 3255.11 |
+| 2025-12-13 17:02:01 | Binance Coin price: $ 889.22 | 24H Low: $ 873.61 | 24H High: 891.96 |
+| 2025-12-13 17:03:01 | Solana price: $ 134.11 | 24H Low: $ 130.68 | 24H High: 139.66 |
+| 2025-12-13 17:04:02 | Bitcoin-Cash price: $ 576.63 | 24H Low: $ 573.13 | 24H High: 586.50 |
+| 2025-12-13 18:00:01 | Bitcoin price: $ 90413.89 | 24H Low: $ 89532.60 | 24H High: 92642.12 |
+| 2025-12-13 18:01:01 | Ethereum price: $ 3119.85 | 24H Low: $ 3050.27 | 24H High: 3255.11 |
+| 2025-12-13 18:02:01 | Binance Coin price: $ 889.54 | 24H Low: $ 873.61 | 24H High: 891.96 |
+| 2025-12-13 18:03:01 | Solana price: $ 133.72 | 24H Low: $ 130.68 | 24H High: 139.66 |
+| 2025-12-13 18:04:02 | Bitcoin-Cash price: $ 576.15 | 24H Low: $ 573.13 | 24H High: 586.50 |
+| 2025-12-13 19:00:01 | Bitcoin price: $ 90577.36 | 24H Low: $ 89532.60 | 24H High: $ 92618.55 |
+| 2025-12-13 19:01:02 | Ethereum price: $ 3126.58 | 24H Low: $ 3050.27 | 24H High: 3251.19 |
+| 2025-12-13 19:02:01 | Binance Coin price: $ 892.85 | 24H Low: $ 873.61 | 24H High: 893.61 |
+| 2025-12-13 19:03:01 | Solana price: $ 133.87 | 24H Low: $ 130.68 | 24H High: 139.66 |
+| 2025-12-13 19:04:02 | Bitcoin-Cash price: $ 577.90 | 24H Low: $ 573.13 | 24H High: 586.50 |
+| 2025-12-13 20:00:01 | Bitcoin price: $ 90381.24 | 24H Low: $ 89532.60 | 24H High: $ 92618.55 |
+| 2025-12-13 20:01:02 | Ethereum price: $ 3121.64 | 24H Low: $ 3050.27 | 24H High: $ 3251.19 |
+| 2025-12-13 20:02:01 | Binance Coin price: $ 892.48 | 24H Low: $ 873.61 | 24H High: $ 893.61 |
+| 2025-12-13 20:03:01 | Solana price: $ 133.47 | 24H Low: $ 130.68 | 24H High: $ 139.66 |
+| 2025-12-13 20:04:02 | Bitcoin-Cash price: $ 576.62 | 24H Low: $ 573.13 | 24H High: $ 586.50 |
+| 2025-12-13 21:00:01 | Bitcoin price: $ 90344.77 | 24H Low: $ 89532.60 | 24H High: $ 92618.55 |
+| 2025-12-13 21:01:02 | Ethereum price: $ 3113.16 | 24H Low: $ 3050.27 | 24H High: $ 3251.19 |
+| 2025-12-13 21:02:01 | Binance Coin price: $ 891.77 | 24H Low: $ 873.61 | 24H High: $ 893.87 |
+| 2025-12-13 21:03:02 | Solana price: $ 132.92 | 24H Low: $ 130.68 | 24H High: $ 139.66 |
+| 2025-12-13 21:04:01 | Bitcoin-Cash price: $ 576.13 | 24H Low: $ 573.13 | 24H High: $ 586.50 |
+| 2025-12-13 22:00:02 | Bitcoin price: $ 90276.16 | 24H Low: $ 89532.60 | 24H High: $ 92618.55 |
+| 2025-12-13 22:01:01 | Ethereum price: $ 3109.65 | 24H Low: $ 3050.27 | 24H High: $ 3246.47 |
+| 2025-12-13 22:02:01 | Binance Coin price: $ 891.91 | 24H Low: $ 873.61 | 24H High: $ 893.87 |
+| 2025-12-13 22:03:02 | Solana price: $ 133.15 | 24H Low: $ 130.68 | 24H High: $ 139.32 |
+| 2025-12-13 22:04:01 | Bitcoin-Cash price: $ 577.51 | 24H Low: $ 573.13 | 24H High: $ 586.50 |
+| 2025-12-13 23:00:02 | Bitcoin price: $ 90182.75 | 24H Low: $ 89532.60 | 24H High: $ 92588.99 |
+| 2025-12-13 23:01:01 | Ethereum price: $ 3113.20 | 24H Low: $ 3050.27 | 24H High: $ 3236.22 |
+| 2025-12-13 23:02:01 | Binance Coin price: $ 890.10 | 24H Low: $ 873.61 | 24H High: $ 893.87 |
+| 2025-12-13 23:03:02 | Solana price: $ 133.29 | 24H Low: $ 130.68 | 24H High: $ 138.63 |
+| 2025-12-13 23:04:01 | Bitcoin-Cash price: $ 575.24 | 24H Low: $ 573.13 | 24H High: $ 586.50 |
+| 2025-12-14 00:00:02 | Bitcoin price: $ 90105.16 | 24H Low: $ 89532.60 | 24H High: $ 90680.60 |
+| 2025-12-14 00:01:01 | Ethereum price: $ 3110.69 | 24H Low: $ 3050.27 | 24H High: $ 3134.85 |
+| 2025-12-14 00:02:02 | Binance Coin price: $ 899.11 | 24H Low: $ 873.61 | 24H High: $ 899.19 |
+| 2025-12-14 00:03:01 | Solana price: $ 133.33 | 24H Low: $ 130.68 | 24H High: $ 134.25 |
+| 2025-12-14 00:04:02 | Bitcoin-Cash price: $ 577.79 | 24H Low: $ 573.13 | 24H High: $ 586.50 |
+| 2025-12-14 01:00:01 | Bitcoin price: $ 90143.19 | 24H Low: $ 89844.73 | 24H High: $ 90680.60 |
+| 2025-12-14 01:01:01 | Ethereum price: $ 3107.21 | 24H Low: $ 3064.42 | 24H High: $ 3134.85 |
+| 2025-12-14 01:02:01 | Binance Coin price: $ 900.18 | 24H Low: $ 875.40 | 24H High: $ 903.76 |
+| 2025-12-14 01:03:02 | Solana price: $ 133.19 | 24H Low: $ 130.68 | 24H High: $ 134.25 |
+| 2025-12-14 01:04:01 | Bitcoin-Cash price: $ 576.73 | 24H Low: $ 573.13 | 24H High: $ 586.50 |
+| 2025-12-14 02:00:02 | Bitcoin price: $ 90063.99 | 24H Low: $ 89917.22 | 24H High: $ 90680.60 |
+| 2025-12-14 02:01:01 | Ethereum price: $ 3100.55 | 24H Low: $ 3064.49 | 24H High: $ 3134.85 |
+| 2025-12-14 02:02:01 | Binance Coin price: $ 895.49 | 24H Low: $ 875.73 | 24H High: $ 903.76 |
+| 2025-12-14 02:03:01 | Solana price: $ 132.36 | 24H Low: $ 130.68 | 24H High: $ 134.25 |
+| 2025-12-14 02:04:02 | Bitcoin-Cash price: $ 569.96 | 24H Low: $ 569.64 | 24H High: $ 586.50 |
+| 2025-12-14 03:00:01 | Bitcoin price: $ 90125.56 | 24H Low: $ 89917.22 | 24H High: $ 90647.57 |
+| 2025-12-14 03:01:02 | Ethereum price: $ 3102.49 | 24H Low: $ 3064.49 | 24H High: $ 3134.85 |
+| 2025-12-14 03:02:01 | Binance Coin price: $ 892.59 | 24H Low: $ 876.00 | 24H High: $ 903.76 |
+| 2025-12-14 03:03:01 | Solana price: $ 132.48 | 24H Low: $ 130.68 | 24H High: $ 134.25 |
+| 2025-12-14 03:04:02 | Bitcoin-Cash price: $ 571.78 | 24H Low: $ 569.64 | 24H High: $ 586.50 |
+| 2025-12-14 04:00:01 | Bitcoin price: $ 90211.04 | 24H Low: $ 89917.22 | 24H High: $ 90647.57 |
+| 2025-12-14 04:01:02 | Ethereum price: $ 3108.87 | 24H Low: $ 3068.57 | 24H High: $ 3134.85 |
+| 2025-12-14 04:02:01 | Binance Coin price: $ 893.81 | 24H Low: $ 876.00 | 24H High: $ 903.76 |
+| 2025-12-14 04:03:01 | Solana price: $ 132.85 | 24H Low: $ 131.05 | 24H High: $ 134.25 |
+| 2025-12-14 04:04:02 | Bitcoin-Cash price: $ 573.68 | 24H Low: $ 569.64 | 24H High: $ 586.50 |
+| 2025-12-14 05:00:01 | Bitcoin price: $ 90148.83 | 24H Low: $ 89985.36 | 24H High: $ 90647.57 |
+| 2025-12-14 05:01:01 | Ethereum price: $ 3105.62 | 24H Low: $ 3077.56 | 24H High: $ 3134.85 |
+| 2025-12-14 05:02:02 | Binance Coin price: $ 894.31 | 24H Low: $ 876.91 | 24H High: $ 903.76 |
+| 2025-12-14 05:03:01 | Solana price: $ 132.40 | 24H Low: $ 131.47 | 24H High: $ 134.25 |
+| 2025-12-14 05:04:01 | Bitcoin-Cash price: $ 577.53 | 24H Low: $ 569.64 | 24H High: $ 586.50 |
+| 2025-12-14 06:00:02 | Bitcoin price: $ 90160.26 | 24H Low: $ 89800.99 | 24H High: $ 90647.57 |
+| 2025-12-14 06:01:01 | Ethereum price: $ 3110.60 | 24H Low: $ 3080.08 | 24H High: $ 3134.85 |
+| 2025-12-14 06:02:01 | Binance Coin price: $ 893.83 | 24H Low: $ 878.74 | 24H High: $ 903.76 |
+| 2025-12-14 06:03:02 | Solana price: $ 132.37 | 24H Low: $ 131.87 | 24H High: $ 134.25 |
+| 2025-12-14 06:04:03 | Bitcoin-Cash price: $ 575.23 | 24H Low: $ 569.64 | 24H High: $ 586.50 |
+| 2025-12-14 07:00:01 | Bitcoin price: $ 90152.36 | 24H Low: $ 89800.99 | 24H High: $ 90647.57 |
+| 2025-12-14 07:01:01 | Ethereum price: $ 3112.08 | 24H Low: $ 3080.08 | 24H High: $ 3134.85 |
+| 2025-12-14 07:02:02 | Binance Coin price: $ 896.11 | 24H Low: $ 880.78 | 24H High: $ 903.76 |
+| 2025-12-14 07:03:01 | Solana price: $ 133.02 | 24H Low: $ 131.99 | 24H High: $ 134.25 |
+| 2025-12-14 07:04:02 | Bitcoin-Cash price: $ 576.43 | 24H Low: $ 569.64 | 24H High: $ 586.50 |
+| 2025-12-14 08:00:01 | Bitcoin price: $ 90280.25 | 24H Low: $ 89800.99 | 24H High: $ 90647.57 |
+| 2025-12-14 08:01:01 | Ethereum price: $ 3115.76 | 24H Low: $ 3080.08 | 24H High: $ 3134.85 |
+| 2025-12-14 08:02:01 | Binance Coin price: $ 897.24 | 24H Low: $ 880.78 | 24H High: $ 903.76 |
+| 2025-12-14 08:03:02 | Solana price: $ 133.24 | 24H Low: $ 131.99 | 24H High: $ 134.25 |
+| 2025-12-14 08:04:01 | Bitcoin-Cash price: $ 580.51 | 24H Low: $ 569.64 | 24H High: $ 586.50 |
+| 2025-12-14 09:00:02 | Bitcoin price: $ 90385.42 | 24H Low: $ 89800.99 | 24H High: $ 90647.57 |
+| 2025-12-14 09:01:01 | Ethereum price: $ 3118.71 | 24H Low: $ 3080.08 | 24H High: $ 3134.85 |
+| 2025-12-14 09:02:01 | Binance Coin price: $ 897.37 | 24H Low: $ 880.78 | 24H High: $ 903.76 |
+| 2025-12-14 09:03:01 | Solana price: $ 133.42 | 24H Low: $ 131.99 | 24H High: $ 134.25 |
+| 2025-12-14 09:04:01 | Bitcoin-Cash price: $ 581.46 | 24H Low: $ 569.64 | 24H High: $ 586.50 |
+| 2025-12-14 10:00:02 | Bitcoin price: $ 90292.83 | 24H Low: $ 89800.99 | 24H High: $ 90647.57 |
+| 2025-12-14 10:01:01 | Ethereum price: $ 3119.56 | 24H Low: $ 3083.32 | 24H High: $ 3134.85 |
+| 2025-12-14 10:02:01 | Binance Coin price: $ 896.19 | 24H Low: $ 881.42 | 24H High: $ 903.76 |
+| 2025-12-14 10:03:01 | Solana price: $ 133.32 | 24H Low: $ 131.99 | 24H High: $ 134.25 |
+| 2025-12-14 10:04:02 | Bitcoin-Cash price: $ 578.33 | 24H Low: $ 569.64 | 24H High: $ 584.14 |
+| 2025-12-14 11:00:01 | Bitcoin price: $ 90280.17 | 24H Low: $ 89800.99 | 24H High: $ 90647.57 |
+| 2025-12-14 11:01:09 | Ethereum price: $ 3120.92 | 24H Low: $ 3083.80 | 24H High: $ 3134.85 |
+| 2025-12-14 11:02:01 | Binance Coin price: $ 896.27 | 24H Low: $ 884.01 | 24H High: $ 903.76 |
+| 2025-12-14 11:03:01 | Solana price: $ 133.34 | 24H Low: $ 131.99 | 24H High: $ 134.25 |
+| 2025-12-14 11:04:02 | Bitcoin-Cash price: $ 580.94 | 24H Low: $ 569.64 | 24H High: $ 583.98 |
+| 2025-12-14 12:00:02 | Bitcoin price: $ 90276.61 | 24H Low: $ 89800.99 | 24H High: $ 90647.57 |
+| 2025-12-14 12:01:01 | Ethereum price: $ 3120.24 | 24H Low: $ 3083.80 | 24H High: $ 3134.85 |
+| 2025-12-14 12:02:02 | Binance Coin price: $ 895.84 | 24H Low: $ 884.21 | 24H High: $ 903.76 |
+| 2025-12-14 12:03:01 | Solana price: $ 133.00 | 24H Low: $ 131.99 | 24H High: $ 134.25 |
+| 2025-12-14 12:04:02 | Bitcoin-Cash price: $ 583.71 | 24H Low: $ 569.64 | 24H High: $ 583.72 |
