@@ -1,4 +1,6 @@
 # comp1314-cw
+- While collecting the data, make sure that the mysql is opened
+- Use crontab -e to collect the data hourly. The code for crontab:
 0 * * * * /bin/bash /home/ame/bitcoin_scraper.sh >> /home/ame/crypto_log.txt
 1 * * * * /bin/bash /home/ame/ethereum_scraper.sh >> /home/ame/crypto_log.txt
 2 * * * * /bin/bash /home/ame/bnb_scraper.sh >> /home/ame/crypto_log.txt
